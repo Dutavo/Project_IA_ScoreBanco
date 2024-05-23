@@ -1,13 +1,13 @@
-## _Projeto Python IA: Inteligência Artificial e Previsões_
+## Projeto Python IA: Inteligência Artificial e Previsões
 
 Projeto de IA para definir o score de crédito de clientes de um banco, analisando todos os clientes do banco e, com base nessa análise, criar um modelo que consiga ler as informações do cliente e dizer automaticamente se o score de crédito dele é: "Ruim, Ok, Bom".
 E por fim, com base nos dados analisados, definir quais caracteristicas mais importantes para definir o score de crédito.
 #
-Biblioteca do Python utilizadas: 
+**Biblioteca do Python utilizadas:** 
 - _Pandas Python_
 - _scikit-learn_
 #
-Modelo de Machine Learning utilizado: 
+**Modelo de Machine Learning utilizado:** 
 - _Randon Forest_
 #
 ### Funcionamento:
